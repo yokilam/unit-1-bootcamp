@@ -20,3 +20,15 @@ ex: calculateSquare(2) returns 4
 ```
 
 [How to calculate a square](http://www.mathsisfun.com/square-root.html)
+
+####2. Calculate Square Root
+
+Write a method called `calculateSquareRoot` that takes an integer and returns the square root of that integer.
+
+```
+ex: calculateSquareRoot(4) returns 2
+    calculateSquareRoot(9) returns 3
+    calculateSquareRoot(16) returns 4
+```
+
+[How to calculate a square root](http://www.mathsisfun.com/square-root.html)
