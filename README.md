@@ -34,6 +34,7 @@ Method | Concept(s)
 
 ##Concepts
 
+0. To better understand the assessment, read this doc on [TDD](https://github.com/noidontdig/unit-1-bootcamp/blob/master/exercises/tdd.md).
 1. [Variables](exercises/variables.md)
 2. [Methods](exercises/methods.md)
 3. [Conditionals](exercises/conditionals.md)
