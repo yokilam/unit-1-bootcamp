@@ -1,13 +1,13 @@
 #Unit 1 Boot Camp
 
-###Schedule
+##Schedule
 
 | Activity | Date
 ---|---
 **Boot Camp** | Tuesday 4/14, Thursday 4/16, Saturday 4/18, Sunday 4/19
 **Assessment** | Tuesday 4/21
 
-###Assessment Results
+##Assessment Results
 
 Please run your assessment test suite and identify the concepts you want to work on:
 
@@ -32,7 +32,7 @@ Method | Concept(s)
 `declareAndReturnHashmapOfAlanTuringAndGraceHopper` | Data Structures
 `changeTuringsCityToPrinceton` | Data Structures
 
-###Concepts
+##Concepts
 
 1. [Variables]()
 2. [Conditionals]()
