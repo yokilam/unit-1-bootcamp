@@ -13,3 +13,6 @@
 > 7. Use the method you wrote in part 6 to print the sum of the numbers from 1 through 10000.
 > 8. Write a method that takes in an `int` n and a `String` s and prints out s on its own line, n times. If n is negative, print "".
 > 9. Modify the method to print out the string concatenated with itself n times.
+>10. Write a method that prints the first ten Fibonnaci numbers.
+>11. Modify the method to sum the first ten Fibonnaci numbers.
+>12. Modify the method to take in an int `n` and sum the first `n` Fibonnaci numbers.
