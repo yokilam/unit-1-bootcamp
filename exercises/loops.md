@@ -15,4 +15,4 @@
 > 9. Modify the method to print out the string concatenated with itself n times.
 >10. Write a method that prints the first ten Fibonnaci numbers.
 >11. Modify the method to sum the first ten Fibonnaci numbers.
->12. Modify the method to take in an int `n` and sum the first `n` Fibonnaci numbers.
+>12. Modify the method to take in an `int` n and sum the first n Fibonnaci numbers.
