@@ -14,10 +14,10 @@ Please run your assessment test suite and identify the concepts you want to work
 Method | Concept(s)
 ---|---
 `printHelloWorld` | -
-`returnPrimitiveBooleanTrue` | Variables
-`returnPrimitiveInt1729` | Variables
-`returnPrimitiveDoubleThreePointOneFour` | Variables
-`returnPrimitiveCharZ` | Variables
+`returnPrimitiveBooleanTrue` | Variables + Methods
+`returnPrimitiveInt1729` | Variables + Methods
+`returnPrimitiveDoubleThreePointOneFour` | Variables + Methods
+`returnPrimitiveCharZ` | Variables + Methods
 `printSumOf1Upto10UsingForLoop` | Loops
 `printSumOf1Upto10000UsingForLoop` | Loops
 `isOdd` | Conditionals
