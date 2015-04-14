@@ -34,10 +34,10 @@ Method | Concept(s)
 
 ##Concepts
 
-1. [Variables]()
-2. [Conditionals]()
-3. [Loops]()
-4. [Classes & Objects]()
-5. [Data Structures]()
+1. [Variables](exercises/variables.md)
+2. [Conditionals](exercises/conditionals.md)
+3. [Loops](exercises/loops.md)
+4. [Classes & Objects](exercises/classesobjects.md)
+5. [Data Structures](exercises/datastructures.md)
 6. [Using APIs](exercises/apis.md)
 7. [Bonus Challenges](exercises/bonus.md)
