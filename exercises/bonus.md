@@ -28,3 +28,7 @@
 > 2. How many different ways can you make $2 with American coins?
 > 3. How many different ways can you make $2 with [Canadian coins](http://en.wikipedia.org/wiki/Coins_of_the_Canadian_dollar)?
 > 4. Read more on [dynamic programming](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) and the coin change problem.
+
+#### The Game of Life
+
+[The Game of Life](http://cs.nyu.edu/courses/spring13/CSCI-UA.0101-001/HW/GameOfLife.html)
