@@ -1,6 +1,9 @@
 #Conditionals
 
 ###Resources
+[If-then/If-then-else](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-0/2015-03-05_input-if.md#if-then-statement)
+
+[Complex conditionals/combining boolean expressions](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-1/2015-03-08%20boolean%20and%20while.md#complex-conditionals)
 
 ###Exercises
 
