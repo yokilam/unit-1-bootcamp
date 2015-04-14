@@ -24,7 +24,7 @@ Write a method called `mostFrequentElement` that takes an ArrayList of Integers 
 
 **Bonus Challenge**
 
-What needs to be changed to make it work on an array of Strings.
+What needs to be changed to make this work on an array of Strings?
 
 ####3. Pod HashMap
 
