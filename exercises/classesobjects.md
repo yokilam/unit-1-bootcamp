@@ -65,3 +65,7 @@ Write a method called `isFree` that checks whether or not a Cat has an owner.
 ex: isFree(garfield) returns false
 ```
 
+####7. isSibling
+
+Write a method called `isSibling` that checks whether or not 2 Cats have the same owner.
+
