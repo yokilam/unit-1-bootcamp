@@ -31,3 +31,13 @@ Method | Concept(s)
 `declareAndReturnArrayListOfThreePlaces` | Data Structures
 `declareAndReturnHashmapOfAlanTuringAndGraceHopper` | Data Structures
 `changeTuringsCityToPrinceton` | Data Structures
+
+###Concepts
+
+1. [Variables]()
+2. [Conditionals]()
+3. [Loops]()
+4. [Classes & Objects]()
+5. [Data Structures]()
+6. [Using APIs]()
+7. [Bonus Challenges]()
