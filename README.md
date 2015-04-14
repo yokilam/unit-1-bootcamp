@@ -4,8 +4,8 @@
 
 | Activity | Date
 ---|---
-Boot Camp | Tuesday 4/14, Thursday 4/16, Saturday 4/18, Sunday 4/19
-Assessment | Tuesday 4/21
+**Boot Camp** | Tuesday 4/14, Thursday 4/16, Saturday 4/18, Sunday 4/19
+**Assessment** | Tuesday 4/21
 
 ###Assessment Results
 
