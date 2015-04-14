@@ -2,7 +2,7 @@
 
 ###Assessment Results
 
-Please run your assessment test suite and identify conepts you want to work on:
+Please run your assessment test suite and identify the concepts you want to work on:
 
 Method | Concept(s)
 ---|---
