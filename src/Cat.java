@@ -6,6 +6,7 @@ public class Cat {
   private String name;
   private String favoriteFood;
   private int age;
+  private Person owner;
 
   public Cat() {
   }
@@ -36,5 +37,13 @@ public class Cat {
 
   public void setName(String name) {
     this.name = name;
+  }
+
+  public void setOwner(Person owner) {
+    this.owner = owner;
+  }
+
+  public Person getOwner() {
+    return owner;
   }
 }
