@@ -73,4 +73,3 @@ ex: prettyInteger(4) prints "**** 4 ****"
 ```
 
 *Hint: this method does not return anything!*
-
