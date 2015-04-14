@@ -2,6 +2,10 @@
 
 ###Resources
 
+[For loops](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-1/2015-03-10_for-loops.md)
+
+[While loops](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-1/2015-03-08%20boolean%20and%20while.md#while-loops)
+
 ###Exercises
 
 > 1. Write a method that prints the numbers 1 through 10 using a loop.
@@ -15,4 +19,4 @@
 > 9. Modify the method to print out the string concatenated with itself n times.
 >10. Write a method that prints the first ten Fibonnaci numbers.
 >11. Modify the method to sum the first ten Fibonnaci numbers.
->12. Modify the method to take in an int `n` and sum the first `n` Fibonnaci numbers.
+>12. Modify the method to take in an `int` n and sum the first n Fibonnaci numbers.

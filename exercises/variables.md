@@ -13,3 +13,6 @@
 Complete these exercises in `Variables.java`
 
 1. [Programming by Doing - Using Variables](https://programmingbydoing.com/a/using-variables.html)
+2. Consider a method `isOdd`. What type should it return? What type(s) should it take in? Create the method signature.
+3. Consider a method `printHelloWorld`. What type should it return? What type(s) should it take in? Create the method signature.
+4. Consider a method `greatestCommonFactor`. What type should it return? What type(s) should it take in? Create the method signature.
