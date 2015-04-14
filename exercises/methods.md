@@ -5,6 +5,15 @@
 * [Video - Methods](https://www.udemy.com/java-tutorial/#/lecture/138666)
 * [Unit 0 - Methods](https://github.com/accesscode-2-1/unit-0/blob/master/lessons/week-1/2015-03-12_methods.md)
 
+###Key Words
+
+Make sure you understand these before starting the exercises:
+
+* **Method signature**
+* **Parameter**
+* **Return type**
+* **Return value**
+
 ###Exercises
 
 Complete these exercises in `Methods.java`
