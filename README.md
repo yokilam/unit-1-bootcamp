@@ -4,8 +4,14 @@
 
 | Activity | Date
 ---|---
-**Boot Camp** | Tuesday 4/14, Thursday 4/16, Saturday 4/18, Sunday 4/19
-**Assessment** | Tuesday 4/21
+**Mini Lecture: Variables & Primitive Types** | Thursday 4/16 8:00pm (20min)
+**Mini Lecture: Methods** | Thursday 4/16 9:00pm (20min)
+**Mini Lecture: Conditionals & Logic Operators** | Saturday 4/18 11:00am (20min)
+**Mini Lecture: Loops** | Saturday 4/18 12:00pm (20min)
+**Mini Lecture: Classes & Objects** | Saturday 4/18 2:30pm (20min)
+**Mini Lecture: Data Structures** | Sunday 4/19 11:00am (20min)
+**Mini Lecture: How to Read & Use an API** | Sunday 4/19 2:00pm (20min)
+**Assessment** | Tuesday 4/21 7:00pm
 
 ##Assessment Results
 
