@@ -52,3 +52,33 @@ wordEnds("abcXY123XYijk", "XY") → "c13i"
 wordEnds("XY123XY", "XY") → "13"
 wordEnds("XY1XY", "XY") → "11"
 ```
+
+####4. Number Puzzle
+
+Use nested for loops to generate a list of all the pairs of positive two digit numbers whose sum is 60, and whose difference is 14.
+
+####5. Digits
+
+Use nested for loops to generate a list of all the positive two digit numbers. Display the numbers, and the sums of their digits.
+
+```
+10, 1+0 = 1
+11, 1+1 = 2
+12, 1+2 = 3
+13, 1+3 = 4
+14, 1+4 = 5
+15, 1+5 = 6
+16, 1+6 = 7
+17, 1+7 = 8
+18, 1+8 = 9
+19, 1+9 = 10
+20, 2+0 = 2
+21, 2+1 = 3
+22, 2+2 = 4
+
+// (etc.)
+
+97, 9+7 = 16
+98, 9+8 = 17
+99, 9+9 = 18
+```
