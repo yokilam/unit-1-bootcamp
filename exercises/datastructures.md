@@ -35,3 +35,14 @@ What needs to be changed to make this work on an array of Strings?
 
 Write a method called `canRentACar` that takes the Pod HashMap as a parameter and returns whether or not the Pod can rent a car. If one or more studetns is over 25, it should return `true`. If no one in the Pod is over 25, it should return `false`.
 
+###Exercises++
+
+####5. wordsWithoutList
+
+Given an array of strings and an integer, write a method that return a new List (an ArrayList) where all the strings of the given length are omitted.
+
+```
+wordsWithoutList({"a", "bb", "b", "ccc"}, 1) → {"bb", "ccc"}
+wordsWithoutList({"a", "bb", "b", "ccc"}, 3) → {"a", "bb", "b"}
+wordsWithoutList({"a", "bb", "b", "ccc"}, 4) → {"a", "bb", "b", "ccc"}
+```

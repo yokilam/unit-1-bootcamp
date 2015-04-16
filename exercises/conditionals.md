@@ -17,3 +17,14 @@ Look at [Person.java](https://github.com/accesscode-2-1/unit-0-assessment/blob/m
 
 > 5. Write a method that takes in a `Person` and returns `true` if the person is from London, and `false` otherwise.
 > 6. Write a method that takes in a `Person` and prints the name if the person has a name longer than 5 characters, and otherwise prints "Name is too short."
+
+###Exercises++
+
+####1. Cigar Party
+
+When squirrels get together for a party, they like to have cigars. A squirrel party is successful when the number of cigars is between 40 and 60, inclusive. Unless it is the weekend, in which case there is no upper bound on the number of cigars. Write a method called `cigarParty` that takes an `int` (the number of cigars) and `boolean` (whether or not it is the weekend) as parameters, and returns `true` if the party with the given values is successful, or `false` otherwise.
+
+####2. Lottery Ticket
+
+You have a green lottery ticket, with `int`s a, b, and c on it. If the numbers are all different from each other, the result is 0. If all of the numbers are the same, the result is 20. If two of the numbers are the same, the result is 10. Write a method that takes 3 `int`s as parameters and returns the correct result.
+
