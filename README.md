@@ -4,8 +4,8 @@
 
 | Activity | Date
 ---|---
-Mini Lecture: Variables & Primitive Types + Methods (20min)| Thursday 4/16 7:30pm 
-Mini Lecture: Conditionals & Logic Operators (20min)| Saturday 4/18 11:00am 
+Mini Lecture: Variables & Primitive Types + Methods (20min)| Thursday 4/16 7:30pm
+Mini Lecture: Conditionals & Logic Operators (20min)| Saturday 4/18 11:00am
 Mini Lecture: Loops (20min)| Saturday 4/18 12:00pm
 Mini Lecture: Classes & Objects (20min)| Saturday 4/18 2:30pm
 **Guest Speaker: [Elias Roman](https://twitter.com/eliasroman), CEO and co-founder of [Songza](http://songza.com/)** | Sunday 11:30am
@@ -43,9 +43,9 @@ Method | Concept(s)
 0. To better understand the assessment, read this doc on [TDD](https://github.com/noidontdig/unit-1-bootcamp/blob/master/exercises/tdd.md).
 1. [Variables](exercises/variables.md)
 2. [Methods](exercises/methods.md)
-3. [Conditionals](exercises/conditionals.md)
+3. [Conditionals](exercises/conditionals.md) (++)
 4. [Loops](exercises/loops.md)
 5. [Classes & Objects](exercises/classesobjects.md)
-6. [Data Structures](exercises/datastructures.md)
+6. [Data Structures](exercises/datastructures.md) (++)
 7. [Using APIs](exercises/apis.md)
-8. [Bonus Challenges](exercises/bonus.md)
+8. [Bonus Challenges](exercises/bonus.md) (++)
