@@ -36,6 +36,7 @@
 #### Create Bonus Challenges for the Assessment!
 
 > Create some bonus challenges for the assessment.
+
 > Bonus challenges should be of the following format:
 
 
