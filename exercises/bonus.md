@@ -33,6 +33,12 @@
 
 [The Game of Life](http://cs.nyu.edu/courses/spring13/CSCI-UA.0101-001/HW/GameOfLife.html)
 
+#### Create Bonus Challenges for the Assessment!
+
+> Create some bonus challenges for the assessment.
+> Bonus challenges should be of the following format:
+
+
 ```
 /*
 * Comment describing what the challenge is
