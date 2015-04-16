@@ -39,7 +39,7 @@ Write a method called `canRentACar` that takes the Pod HashMap as a parameter an
 
 ####5. wordsWithoutList
 
-Given an array of strings and an integer, write a method that return a new List (an ArrayList) where all the strings of the given length are omitted.
+Given an array of strings and an integer, write a method that return a an ArrayList where all the strings of the given length are omitted.
 
 ```
 wordsWithoutList({"a", "bb", "b", "ccc"}, 1) → {"bb", "ccc"}
