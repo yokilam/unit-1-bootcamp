@@ -24,7 +24,7 @@ Look at [Person.java](https://github.com/accesscode-2-1/unit-0-assessment/blob/m
 
 When squirrels get together for a party, they like to have cigars. A squirrel party is successful when the number of cigars is between 40 and 60, inclusive. Unless it is the weekend, in which case there is no upper bound on the number of cigars. Write a method called `cigarParty` that takes an `int` (the number of cigars) and `boolean` (whether or not it is the weekend) as parameters, and returns `true` if the party with the given values is successful, or `false` otherwise.
 
-####3. Caught Speeding
+####2. Caught Speeding
 
 You are driving a little too fast, and a police officer stops you. Write code to compute the result, encoded as an int value: 0=no ticket, 1=small ticket, 2=big ticket. If speed is 60 or less, the result is 0. If speed is between 61 and 80 inclusive, the result is 1. If speed is 81 or more, the result is 2. Unless it is your birthday -- on that day, your speed can be 5 higher in all cases.
 
@@ -34,7 +34,17 @@ caughtSpeeding(65, false) → 1
 caughtSpeeding(65, true) → 0
 ```
 
-####2. Lottery Ticket
+####3. Alarm Clock
+
+Given a day of the week encoded as 0=Sun, 1=Mon, 2=Tue, ...6=Sat, and a boolean indicating if we are on vacation, return a string of the form "7:00" indicating when the alarm clock should ring. Weekdays, the alarm should be "7:00" and on the weekend it should be "10:00". Unless we are on vacation -- then on weekdays it should be "10:00" and weekends it should be "off".
+
+```
+alarmClock(1, false) → "7:00"
+alarmClock(5, false) → "7:00"
+alarmClock(0, false) → "10:00"
+```
+
+####4. Lottery Ticket
 
 You have a green lottery ticket, with `int`s a, b, and c on it. If the numbers are all different from each other, the result is 0. If all of the numbers are the same, the result is 20. If two of the numbers are the same, the result is 10. Write a method that takes 3 `int`s as parameters and returns the correct result.
 
