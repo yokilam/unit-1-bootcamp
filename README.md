@@ -7,7 +7,7 @@
 Mini Lecture: Variables & Primitive Types + Methods (20min)| Thursday 4/16 7:30pm
 Mini Lecture: Conditionals & Logic Operators (20min)| Saturday 4/18 11:00am
 Mini Lecture: Loops (20min)| Saturday 4/18 12:00pm
-Think Piece: [The US's marginalized disrupting power structures through code](http://qz.com/382041/the-uss-most-marginalized-are-disrupting-power-structures-by-learning-how-to-code/) | Saturday 4.18 1:00pm
+Think Piece: [US's marginalized disrupt power structures through code](http://qz.com/382041/the-uss-most-marginalized-are-disrupting-power-structures-by-learning-how-to-code/) | Saturday 4.18 1:00pm
 Mini Lecture: Classes & Objects (20min)| Saturday 4/18 2:30pm
 **Guest Speaker: [Elias Roman](https://twitter.com/eliasroman), CEO and co-founder of [Songza](http://songza.com/)** | Sunday 11:30am
 Mini Lecture: Data Structures (20min)| Sunday 4/19 2:00pm
