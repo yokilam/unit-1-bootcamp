@@ -33,9 +33,9 @@
 
 [Instructions to code Conway's Game of Life](http://cs.nyu.edu/courses/spring13/CSCI-UA.0101-001/HW/GameOfLife.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=C2vgICfQawE
 " target="_blank"><img src="http://img.youtube.com/vi/C2vgICfQawE/0.jpg"
-alt="Game of life" width="240" height="180" border="10" /></a>
+alt="Game of life" width="600" height="400" border="0" /></a>
 
 ###Exercises++
 
