@@ -32,3 +32,13 @@
 #### The Game of Life
 
 [The Game of Life](http://cs.nyu.edu/courses/spring13/CSCI-UA.0101-001/HW/GameOfLife.html)
+
+```
+/*
+* Comment describing what the challenge is
+*/
+public static RETURN_TYPE METHOD_NAME (PARAMETER_TYPE PARAMETER) {
+
+  return DEFAULT_VALUE;
+}
+```
