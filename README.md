@@ -4,8 +4,7 @@
 
 | Activity | Date
 ---|---
-Mini Lecture: Variables & Primitive Types (20min)| Thursday 4/16 7:30pm 
-Mini Lecture: Methods (20min)| Thursday 4/16 8:30pm 
+Mini Lecture: Variables & Primitive Types + Methods (20min)| Thursday 4/16 7:30pm 
 Mini Lecture: Conditionals & Logic Operators (20min)| Saturday 4/18 11:00am 
 Mini Lecture: Loops (20min)| Saturday 4/18 12:00pm
 Mini Lecture: Classes & Objects (20min)| Saturday 4/18 2:30pm
