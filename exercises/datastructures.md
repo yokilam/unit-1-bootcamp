@@ -56,3 +56,7 @@ countClumps({1, 2, 2, 3, 4, 4}) → 2
 countClumps({1, 1, 2, 1, 1}) → 2
 countClumps({1, 1, 1, 1, 1}) → 1
 ```
+
+####7. Sorting sentences
+
+Write a method that takes a String sentence, breaks it up into an ArrayList of Strings (one word per ArrayList element), and prints out the words in alphabetical order.
