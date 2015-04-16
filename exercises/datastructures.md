@@ -46,3 +46,13 @@ wordsWithoutList({"a", "bb", "b", "ccc"}, 1) → {"bb", "ccc"}
 wordsWithoutList({"a", "bb", "b", "ccc"}, 3) → {"a", "bb", "b"}
 wordsWithoutList({"a", "bb", "b", "ccc"}, 4) → {"a", "bb", "b", "ccc"}
 ```
+
+####6. How many clumps?
+
+Say that a "clump" in an ArrayList is a series of 2 or more adjacent elements of the same value. Write a method that returns the number of clumps in the given ArrayList.
+
+```
+countClumps({1, 2, 2, 3, 4, 4}) → 2
+countClumps({1, 1, 2, 1, 1}) → 2
+countClumps({1, 1, 1, 1, 1}) → 1
+```
