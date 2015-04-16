@@ -31,14 +31,15 @@
 
 #### The Game of Life
 
-[The Game of Life](http://cs.nyu.edu/courses/spring13/CSCI-UA.0101-001/HW/GameOfLife.html)
+[Instructions to code Conway's Game of Life](http://cs.nyu.edu/courses/spring13/CSCI-UA.0101-001/HW/GameOfLife.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C2vgICfQawE" frameborder="0" allowfullscreen></iframe>
 
 ###Exercises++
 
 #### Create Bonus Challenges for the Assessment!
 
 Create some bonus challenges for the new assessment. Bonus challenges should be of the following format:
-
 
 ```
 /*
