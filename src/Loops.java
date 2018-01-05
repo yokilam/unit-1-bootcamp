@@ -5,17 +5,31 @@ public class Loops {
 
   public static void main (String args[]) {
 
+    //7
+    sum(10000);
+
+    printsOneThroughTen();
+    printsOneThroughTen2();
+    printsNumberN(6);
+    printsEvenNumbers(10);
+    sum(10000);
+    printStringNTimes("You", 2);
+    printStringConcatenate("Go", 3);
+    printFirstTenFibonnaci();
+    printSumOfFirstTenFibonnaci();
+    printSumOfNFibonnaci(20);
+
   }
 
   //1
-  public void printsOneThroughTen(){
+  public static void printsOneThroughTen(){
     for (int i = 1; i <= 10 ; i++) {
       System.out.print(i + " ");
     }
   }
 
   //2
-  public void printsOneThroughTen2(){
+  public static void printsOneThroughTen2(){
     int n = 0;
     while (n <10) {
       n++;
@@ -24,14 +38,14 @@ public class Loops {
   }
 
   //3
-  public void printsNumberN(int n){
+  public static void printsNumberN(int n){
     for (int i = 1; i <= n; i++) {
       System.out.print(i + " ");
     }
   }
 
   //4
-  public void printsEvenNumbers(int n){
+  public static void printsEvenNumbers(int n){
     for (int i = 1; i <= n; i++) {
       if (i%2==0){
         System.out.print(i + " ");
@@ -40,7 +54,7 @@ public class Loops {
   }
 
   //5
-  public void sumOfOneThroughTen(){
+  public static void sumOfOneThroughTen(){
     int sum = 0;
     for (int i = 1; i <= 10 ; i++) {
       sum += i;
@@ -49,7 +63,7 @@ public class Loops {
   }
 
   //6
-  public void sum(int n){
+  public static void sum(int n){
     int sum = 0;
     for (int i = 1; i <= n ; i++) {
       sum += i;
@@ -57,11 +71,8 @@ public class Loops {
     System.out.print(sum);
   }
 
-  //7
-  sum(10000);
-
   //8
-  public void printStringNTimes(String s, int n){
+  public static void printStringNTimes(String s, int n){
     if (n < 0) {
       System.out.println("");
     } else {
@@ -72,7 +83,7 @@ public class Loops {
   }
 
   //9
-  public void printStringConcatenate(String s, int n){
+  public static void printStringConcatenate(String s, int n){
     String newString = "";
     for (int i = 0; i < n; i++) {
       System.out.println(newString += s);
@@ -80,7 +91,7 @@ public class Loops {
   }
 
   //10
-  public void printFirstTenFibonnaci(){
+  public static void printFirstTenFibonnaci(){
     int a=0, b=1, c, count=10;
     for (int i = 0; i < count; i++) {
       c= a+b;
@@ -91,7 +102,7 @@ public class Loops {
   }
 
   //11
-  public void printSumOfFirstTenFibonnaci() {
+  public static void printSumOfFirstTenFibonnaci() {
     int a = 0, b = 1, c, sum = 0;
     for (int i = 0; i < 10; i++) {
       c = a + b;
@@ -103,7 +114,7 @@ public class Loops {
   }
 
   //12
-  public void printSumOfNFibonnaci(int n){
+  public static void printSumOfNFibonnaci(int n){
     int a=0, b=1, c, sum=0;
     for (int i = 0; i < n; i++) {
       c= a+b;

@@ -5,30 +5,42 @@ public class Conditionals {
 
     public static void main(String args[]) {
 
+        System.out.println(isOddAndIsMultipleOfThree(9));
+        fizzMultipleofThree(10);
+        Person person= new Person();
+        person.setCity("asfdasf");
+        person.setName("df");
+
+        System.out.println(isFromLondon(person));
+        printsName(person);
+
+        System.out.println(lotteryTicket(10,10,10));
+        System.out.println(blackkJack(2, 10));
+        System.out.println(evenlySpaced(4,6, 3));
     }
 
     //1
-    public boolean isOdd(int n) {
+    public static boolean isOdd(int n) {
         return n % 2 != 0;
     }
 
     //2
-    public boolean isMultipleOfThree(int n) {
+    public static boolean isMultipleOfThree(int n) {
         return n % 3 == 0;
     }
 
     //3
-    public boolean isOddAndIsMultipleOfThree(int n) {
+    public static boolean isOddAndIsMultipleOfThree(int n) {
         return n % 3 == 0;
     }
 
     //4
-    public boolean isOddAndIsMultipleOfThree2(int n) {
+    public static boolean isOddAndIsMultipleOfThree2(int n) {
         return isOdd(n) && isMultipleOfThree(n);
     }
 
     //5
-    public void fizzMultipleofThree(int n) {
+    public static void fizzMultipleofThree(int n) {
         if (n % 3 == 0) {
             System.out.println("Fizz");
         } else {
@@ -38,12 +50,12 @@ public class Conditionals {
 
     //-----Person.java---------
     //5
-    public boolean isFromLondon(Person person) {
+    public static boolean isFromLondon(Person person) {
         return person.getCity().equals("London");
     }
 
     //6
-    public void printsName(Person person) {
+    public static void printsName(Person person) {
         if (person.getName().length() > 5) {
             System.out.println(person.getName());
         } else {
@@ -53,7 +65,7 @@ public class Conditionals {
 
     //-----Exercise ++ --------
     //1
-    public boolean cigarParty(int cigars, boolean isWeekend) {
+    public static boolean cigarParty(int cigars, boolean isWeekend) {
         if (cigars >= 40 && (cigars <= 60 || isWeekend == true)) {
             return true;
         } else {
@@ -62,7 +74,7 @@ public class Conditionals {
     }
 
     //2
-    public int caughtSpeeding(int speed, boolean isBirthday) {
+    public static int caughtSpeeding(int speed, boolean isBirthday) {
         if (isBirthday) {
             if (speed <= 65) {
                 return 0;
@@ -82,7 +94,7 @@ public class Conditionals {
     }
 
     //3
-    public String alarmClock(int day, boolean vacation) {
+    public static String alarmClock(int day, boolean vacation) {
         if(!vacation) {
             if (day >=1 && day <= 5){
                 return "7:00";
@@ -99,7 +111,7 @@ public class Conditionals {
     }
 
     //4
-    public int lotteryTicket(int a, int b, int c) {
+    public static int lotteryTicket(int a, int b, int c) {
         if ( a == b && a == c) {
             return 20;
         } else if ( a == b || b == c || a == c) {
@@ -110,7 +122,7 @@ public class Conditionals {
     }
 
     //5
-    public int blackkJack(int a, int b) {
+    public static int blackkJack(int a, int b) {
         if (a > 21 && b >21) {
             return 0;
         } else if ( 21-a < 21-b || b > 21) {
@@ -123,7 +135,7 @@ public class Conditionals {
     }
 
     //6
-    public boolean evenlySpaced(int a, int b, int c) {
+    public static boolean evenlySpaced(int a, int b, int c) {
         if(a==b && b==c) return true;
         if(a==b || a==c || b==c) return false;
         return ((Math.abs(a-b)== Math.abs(b-c))

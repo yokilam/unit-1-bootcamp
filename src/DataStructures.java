@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class DataStructures {
 
   public static void main (String args[]) {
@@ -13,10 +15,51 @@ public class DataStructures {
     for (int i = 0; i < catsList.size(); i++) {
       System.out.println(catsList.get(i).getName());
     }
+
+    //-----Testing------
+    ArrayList<Integer> num = new ArrayList<Integer>();
+    num.add(1);
+    num.add(2);
+    num.add(3);
+    num.add(4);
+    num.add(1);
+    num.add(1);
+    mostFrequentElement(num);
+
+    System.out.println(("Goggle"));
+
+    ArrayList<String> string= new ArrayList<String>();
+    string.add("google");
+    string.add("yahoo");
+    string.add("main");
+    string.add("new year");
+    string.add("new year");
+    string.add("yahoo");
+    string.add("new year");
+
+    mostFrequentElement2(string);
+
+    printYourSquadMates();
+
+    HashMap<String, Integer> pod = new HashMap<String, Integer>();
+    pod.put("Muaddh", 18);
+    pod.put("Yisandy", 21);
+    pod.put("Darnell", 25);
+    pod.put("Yoki", 24);
+    pod.put("Wayne", 2);
+    pod.put("Angel", 2);
+
+    System.out.println(canRentACar(pod));
+    System.out.println(wordsWithoutList(string, 8));
+
+    int[] nums = {1,2,2,1,3,3,1,4,4};
+    System.out.println(countClumps(nums));
+
+    printStringInAlphaOrder("Telephone");
   }
 
   //2
-  public void mostFrequentElement(ArrayList<Integer> numList){
+  public static void mostFrequentElement(ArrayList<Integer> numList){
     List<Integer> count= new ArrayList<Integer>();
     List<Integer> seen = new ArrayList<Integer>();
     int highestnum=0;
@@ -38,7 +81,7 @@ public class DataStructures {
   }
 
   //2 Bonus Challenge
-  public void mostFrequentElement2(ArrayList<String> stringList){
+  public static void mostFrequentElement2(ArrayList<String> stringList){
     List<Integer> count= new ArrayList<Integer>();
     List<String> seen = new ArrayList<String>();
     int highestnum=0;
@@ -61,7 +104,7 @@ public class DataStructures {
   }
 
   //3
-  public void printYourSquadMates(){
+  public static void printYourSquadMates(){
     Map<String, Integer> pod = new HashMap<String, Integer>();
     pod.put("Muaddh", 18);
     pod.put("Yisandy", 21);
@@ -76,7 +119,7 @@ public class DataStructures {
   }
 
   //4
-  public boolean canRentACar(HashMap<String, Integer> pod){
+  public static boolean canRentACar(HashMap<String, Integer> pod){
     for (Map.Entry<String, Integer> entry: pod.entrySet()) {
       if (entry.getValue() > 25) return true;
     }
@@ -84,7 +127,7 @@ public class DataStructures {
   }
 
   //5
-  public ArrayList<String> wordsWithoutList(ArrayList<String> strings, int n) {
+  public static ArrayList<String> wordsWithoutList(ArrayList<String> strings, int n) {
     ArrayList<String> newList= new ArrayList<String>();
     for (int i = 0; i < strings.size(); i++) {
       if (strings.get(i).length() != n) {
@@ -112,7 +155,7 @@ public class DataStructures {
   }
 
   //7
-  public void printStringInAlphaOrder(String s){
+  public static void printStringInAlphaOrder(String s){
     List<Character> strings= new ArrayList<Character>();
     for (int i = 0; i < s.length(); i++) {
       strings.add(s.toLowerCase().charAt(i));
